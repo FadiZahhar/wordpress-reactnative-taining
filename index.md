@@ -127,6 +127,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## 6. Prepare the app to be submitted
+
+### 1 Configuring appjson file (Part 1)
+<iframe src="https://player.vimeo.com/video/651357335" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
 
 ### Markdown
 
