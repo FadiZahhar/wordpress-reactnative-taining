@@ -92,6 +92,29 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## 4. Adjust dark mode and styling
+
+### 1 Adjusting settings screen and adding dark mode settings
+<iframe src="https://player.vimeo.com/video/651341226" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Use React context API to change the colors in the app from the settings
+<iframe src="https://player.vimeo.com/video/651343149" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Adjusting colors for the App (part 1)
+<iframe src="https://player.vimeo.com/video/651346472" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Adjust dark mode  for app components (Part 2)
+<iframe src="https://player.vimeo.com/video/651348626" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Configure the app dark mode based on device preference
+<iframe src="https://player.vimeo.com/video/651351347" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 Save the app setting and use it with AsyncStorage
+<iframe src="https://player.vimeo.com/video/651352190" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Adjust the dark mode for the status bar
+<iframe src="https://player.vimeo.com/video/651353764" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
 
 
 
