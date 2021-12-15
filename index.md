@@ -24,6 +24,37 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## 2. Fetching and Showing all post
+
+### 1 Fetching the posts from WordPres REST API
+<iframe src="https://player.vimeo.com/video/651303229" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Show the first post on the app with useState Hook
+<iframe src="https://player.vimeo.com/video/651304400" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 3 Minor fix Adjust Prettier to VSCode
+<iframe src="https://player.vimeo.com/video/651305022" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 4 Displaying a set of posts by mapping the posts array
+<iframe src="https://player.vimeo.com/video/651305201" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 5 Adding Featured Image to post Thumbnail and minor fixes
+<iframe src="https://player.vimeo.com/video/651306240" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 6 SafeAreaView and adjusting some styles
+<iframe src="https://player.vimeo.com/video/651307599" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 7 Scrolling the posts on the app screen
+<iframe src="https://player.vimeo.com/video/651308433" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 8 Fetching new posts on scrolling to the bottom
+<iframe src="https://player.vimeo.com/video/651310392" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 9 Showing the Loading Icon (ActivityIndicator) while Fetching
+<iframe src="https://player.vimeo.com/video/651313521" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 
 
 ### Markdown
