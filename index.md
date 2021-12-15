@@ -117,6 +117,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
+## 5. Configuring ads and share
+
+### 1 30 Configuring ads on our app
+<iframe src="https://player.vimeo.com/video/651354796" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+### 2 Adding share button
+<iframe src="https://player.vimeo.com/video/651356068" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+
 
 ### Markdown
 
